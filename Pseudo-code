@@ -1,0 +1,50 @@
+Opdracht 1
+1.1 Schrijf een functie die de original stock telt van alle tv soorten
+1.2 In de functie tel je ook het aantal dat sold is van alle tv soorten
+1.3 De sold trek je van de original stock af en geeft de
+daadwerkelijke stock terug
+1.4 Zorg dat de daadwerkelijke stock in het ROOD wordt weergegeven in de pagina
+
+Opdracht 2
+2.1 Gebruik de map() of filter() methode om alle type tv's te vinden en terug
+te geven in een array
+2.2 Gebruik de filter() methode om alle uitverkochte tv's te vinden en
+het volledige object van de tv terug te geven
+2.3 Gebruik de filter() methode om alle tv's te vinden die over ambiLight
+beschikken en het volledige object van de tv terug te geven
+2.4 Gebruik de sort() methode om de tv's van laagste naar hoogste prijs te
+sorteren
+
+Opdracht 3
+3.1 Schrijf een functie die over elke tv loopt
+3.2 Per tv wordt de originele stock vermenigvuldigd met de prijs
+3.2 Per loop wordt het bedrag toegevoegd aan een counter
+3.3 De uitkomst geven we weer in de pagina in het BLAUW
+3.4 Schrijf een functie die over elke tv loopt
+3.5 Per tv wordt de sold vermenigvuldigd met de price
+3.6 Per loop wordt het bedrag toegevoegd aan een counter
+3.7 De uitkomst geven we weer in de pagina in het GROEN
+
+Opdracht 4
+4.1 Geef van 2 tv's de type-namen weer op de pagina.
+
+Opdracht 5
+5.1 Schrijf een functie die een string genereert voor de naam van de tv
+5.2 De functie moet 1 parameter verwachten
+5.3 De parameter moet 1 tv object kunnen lezen
+5.4 Schrijf een functie die 1 prijs als parameter verwacht
+5.5 De functie moet de prijs in een nette string €379,- terug geven
+5.6 Schrijf een functie die de schermgroottes van 1 tv verwacht
+5.7 De functie moet
+[schermgrootte] inches ([schermgrootte omgerekend]cm) | [schermgrootte] inches ([schermgrootte omgerekend]cm) etc.
+Dus een input van [32] geeft 32 inch (81 cm) en een input van
+[43, 50, 55, 58] geeft 43 inch (109 cm) | 50 inch (127 cm) | 58 inch (147 cm)
+5.8 De functie moet te gebruiken zijn voor tv's met 1 schermgrootte en
+meerdere schermgroottes dit realiseren door een for loop
+5.9 Geef 1 van de 2 tv's van opdracht 4 weer op de pagina met de zojuist gemaakte
+functies
+5.10 Schrijf een functie die alle TV's weergeeft op de pagina
+5.11 De functie verwacht 1 parameter, de volledige array met tv-objecte
+5.12 Gebruik de bovenstaande functies om de object om te zetten voor een nette
+pagina weergave
+5.13 Roep de functie aan
